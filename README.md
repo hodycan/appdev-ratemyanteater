@@ -1,8 +1,4 @@
 # UCI AppDev Club 
-## Scheduling Web App
+## RateMyAnteater Chrome Extension
 
-Groups/organizations will be able to use this app to collective make decisions
-e.g.
-plan meeting times and places
-plan carpools
-elections
+This Google Chrome extension integrates ratemyprofessor ratings into UC Irvine's schedule of classes
