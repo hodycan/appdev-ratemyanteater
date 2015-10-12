@@ -1,4 +1,4 @@
-## UCI AppDev Club
-# RateMyAnteater
+# UCI AppDev Club 
+## RateMyAnteater Chrome Extension
 
-Injects HTML ratings from ratemyprofessor into UCI's schedule of classes.
+This Google Chrome extension integrates ratemyprofessor ratings into UC Irvine's schedule of classes
