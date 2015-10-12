@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "RateMyAnteater",
+  "description": "Adds ratemyprofessor ratings to the UCI Schedule of Classes",
+  "version": "1.0",
+
+  "browser_action": {
+    // "default_icon": "icon.png",
+    // "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+  ]
+}
